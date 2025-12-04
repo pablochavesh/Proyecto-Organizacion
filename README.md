@@ -21,3 +21,5 @@ El sistema permite:
 - Sistema operativo: Windows / Linux / Mac
 
 # Instrucciones de instalación
+
+git clone https://github.com/pablochavesh/Proyecto-Organizacion.git
